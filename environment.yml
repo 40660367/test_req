@@ -3,7 +3,7 @@ dependencies:
   - pip:
     - spacy
     - pandas
-    - spacy
+    - nltk
     - ipykernel
     - scipy
     - scikit-learn
