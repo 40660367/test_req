@@ -1,0 +1,12 @@
+  - python=3
+  - pip:    
+    - ipykernel
+    - pandas
+    - spacy
+    - nltk
+    - seaborn
+    - scipy
+    - scikit-learn
+    - matplotlib
+    - pandas
+    - thinc
